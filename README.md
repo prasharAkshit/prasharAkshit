@@ -42,15 +42,6 @@ Always learning. Always improving.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prasharAkshit&theme=onedark&hide_border=false"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=prasharAkshit&theme=onedark&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasharAkshit&theme=onedark&layout=compact"/>
-</p>
-
----
-
 ## ✍️ Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
