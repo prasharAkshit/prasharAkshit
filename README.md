@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">Backend Developer • Cloud Security Learner</h3>
+<h3 align="center">Backend Developer • DevOps Learner</h3>
 
 <p align="center">
 Building secure, scalable systems ☁️🔐 <br/>
@@ -9,9 +9,9 @@ Always learning. Always improving.
 ---
 
 ## 🚀 About Me
-- 🛠️ Backend & Cloud Security enthusiast  
-- 🌱 Currently learning **Java, Spring Boot, AWS & Security Fundamentals**  
-- 🎯 Goal: Become a **Cloud Security Engineer**  
+- 🛠️ Backend, DevOps & Cloud enthusiast  
+- 🌱 Currently learning **Java, Spring Boot, AWS & Deployment Fundamentals**  
+- 🎯 Goal: Become a **Backend and DevOps Engineer**  
 - 💡 Interested in secure architecture & distributed systems  
 
 ---
