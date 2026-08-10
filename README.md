@@ -1,44 +1,55 @@
-<h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">Backend Developer • DevOps Learner</h3>
+# 👋 Hi, I'm [Your Name]
 
-<p align="center">
-Building secure, scalable systems ☁️🔐 <br/>
-Always learning. Always improving.
-</p>
-
----
+🚀 **Backend Developer in the making**, focused on learning, building, and improving one project at a time.
 
 ## 🚀 About Me
-- 🛠️ Backend, DevOps & Cloud enthusiast  
-- 🌱 Currently learning **Java, Spring Boot, AWS & Deployment Fundamentals**  
-- 🎯 Goal: Become a **Backend and DevOps Engineer**  
-- 💡 Interested in secure architecture & distributed systems  
 
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://instagram.com/_pra_shar"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/akshit-prashar-801a013b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/31887556"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
-<a href="mailto:prasharakshit1621@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
-
----
+* 🛠️ Primarily focused on **Backend Development**
+* ☕ Currently learning **Java & Spring Boot**
+* 🌐 Learning **HTML, CSS, JavaScript & React** to build frontend applications
+* ⚙️ Exploring **DevOps fundamentals** and application deployment
+* ☁️ Learning the basics of **AWS & cloud technologies**
+* 🤖 Exploring **AI fundamentals** and how AI can be used in applications
+* 🎯 Goal: Become a strong **Backend Engineer** with a solid understanding of the technologies around backend development
+* 💡 Interested in **secure architecture, scalable applications & distributed systems**
+* 📚 Always learning, experimenting, and building
 
 ## 🧰 Tech Stack
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+
+### 🛠️ Backend
+
+* ☕ **Java**
+* 🌱 **Spring Boot**
+
+### 🎨 Frontend
+
+* 🌐 **HTML**
+* 🎨 **CSS**
+* ⚡ **JavaScript**
+* ⚛️ **React**
+
+### ⚙️ DevOps
+
+* 🔧 **Git & GitHub**
+* 🚀 **CI/CD**
+* 🐳 **Docker**
+* 📦 Deployment fundamentals
+
+### ☁️ Cloud
+
+* ☁️ **AWS**
+* 🌍 Cloud & infrastructure fundamentals
+
+## 📌 What I'm Building
+
+I'm currently starting my development journey by focusing on **backend projects with Java and Spring Boot**.
+
+As I grow, I'll be adding frontend applications, learning deployment and DevOps, and eventually building and deploying complete applications.
+
+
+## ✍️ Dev Quote
+
+> "Learn. Build. Improve. Repeat."
 
 ---
 
@@ -49,6 +60,8 @@ Always learning. Always improving.
 
 ---
 
-<p align="center">
-⚡ “Secure code is not a feature — it’s a foundation.”
-</p>
+
+⭐ Thanks for visiting my profile!
+
+I'm learning, building, and improving every day.
+
