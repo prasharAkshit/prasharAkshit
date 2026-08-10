@@ -1,5 +1,4 @@
-# 👋 Hi, I'm [Your Name]
-
+# 👋 Hi, I'm Akshit Prashar.
 🚀 **Backend Developer in the making**, focused on learning, building, and improving one project at a time.
 
 ## 🚀 About Me
